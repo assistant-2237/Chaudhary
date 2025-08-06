@@ -15,9 +15,7 @@ Download the latest version of the Canteen POS software:
 👉 [canteen-pos.zip](canteen-pos.zip)
 
 ## 📸 Screenshots
-
-*(You can add screenshots of your software UI here)*
-
+<img width="1353" height="630" alt="image" src="https://github.com/user-attachments/assets/f530e7be-81a6-4cf1-a8fb-297a6b438a0b" />
 ## 💡 How to Use
 
 1. Download the `.zip` file
