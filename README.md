@@ -1,28 +1,36 @@
-# Chaudhary
+# Chaudhary - Project Management Repository
 
 Welcome to the **Chaudhary** repository. This project is developed and maintained by Chaudhary. It serves as a central hub for tools, templates, documentation, and code related to professional and personal projects.
 
-## 🚀 Features
+## 🧰 Available Tools
 
-- Project templates
-- Utility scripts
-- Organized documentation
-- Custom tools and software
+- ✅ Canteen POS software
+- ✅ Project backups
+- ✅ Documentation templates
 
-## 📂 Folder Structure
+## 📦 Download
 
-- `/docs` - Documentation files
-- `/src` - Main code files
-- `/assets` - Images, icons, logos
-- `/backup` - Project backups
+Download the latest version of the Canteen POS software:
 
-## 🛠️ Getting Started
+👉 [canteen-pos.zip](canteen-pos.zip)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Chaudhary/Chaudhary.git
-   🥘 Canteen Management Software
-A complete web-based Canteen Management System designed to streamline daily operations for small to medium-sized food service businesses. Built to handle everything from customer management and product inventory to invoice generation and payment tracking (cash/partial/credit).
+## 📸 Screenshots
+
+*(You can add screenshots of your software UI here)*
+
+## 💡 How to Use
+
+1. Download the `.zip` file
+2. Extract it on your PC
+3. Open the folder and run the software
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE)
+
+## 🤝 Contributing
+
+Feel free to suggest improvements or submit pull requests.
 
 🔑 Key Features
 Dashboard Overview – See total sales, customers, and payments at a glance
