@@ -21,6 +21,7 @@ Download the latest version of the Canteen POS software:
 1. Download the `.zip` file
 2. Extract it on your PC
 3. Open the folder and run the software
+4. its run with xampp
 
 ## 📃 License
 
